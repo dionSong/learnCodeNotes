@@ -122,7 +122,11 @@ i--
 //Residuo
 residuo = 10 % 2 //en este caso es 0
 
-// x = x + 12; is the same as  x += 12;
+//To add a number to a var you can say 
+ x = x + 12; or  x += 12; //the same with all operators 
+                            x = x * 12; or  x *= 12
+
+
 
 
 
