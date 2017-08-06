@@ -119,6 +119,12 @@ i++
 
 i--
 
+//Residuo
+residuo = 10 % 2 //en este caso es 0
+
+// x = x + 12; is the same as  x += 12;
+
+
 
 
 
