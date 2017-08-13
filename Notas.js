@@ -126,6 +126,20 @@ residuo = 10 % 2 //en este caso es 0
  x = x + 12; or  x += 12; //the same with all operators 
                             x = x * 12; or  x *= 12
 
+//Appending Variables to Strings
+
+var someAdjective = 'fun';
+var myStr = "Learning to code is ";
+
+myStr += someAdjective;
+
+
+//Find the Length of a String
+
+var firstNameLength = 0;
+var firstName = "Ada";
+
+firstNameLength = firstName.length;
 
 
 
